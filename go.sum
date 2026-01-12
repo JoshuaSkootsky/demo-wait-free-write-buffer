@@ -1,2 +1,4 @@
 github.com/JoshuaSkootsky/wait-free-write-buffer v0.2.0 h1:2cXww8GMBxsel7wNiFKeLGtv7jLBFJEccuHVuGWn5Z0=
 github.com/JoshuaSkootsky/wait-free-write-buffer v0.2.0/go.mod h1:jQiwLLFdXA0vrHLmi4qGoAPcgBHl2kTVXD0arBvEsdI=
+github.com/JoshuaSkootsky/wait-free-write-buffer v0.3.0 h1:3Ff/d7ezwStndT+DvAzuX1GNDtEdEG6JbzCjfTK/vJ0=
+github.com/JoshuaSkootsky/wait-free-write-buffer v0.3.0/go.mod h1:jQiwLLFdXA0vrHLmi4qGoAPcgBHl2kTVXD0arBvEsdI=
